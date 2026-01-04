@@ -48,4 +48,10 @@ Functions
 
 Input validation
 
+ Output
+ 
+valid Password Example
+
+[Program Output](Output.png)
+
 
